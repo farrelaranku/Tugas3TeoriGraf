@@ -1,0 +1,15 @@
+u v 51
+u w 56
+u x 60
+u y 2
+u z 35
+v w 78
+v x 13
+v y 51
+v z 68
+w x 70
+w y 57
+w z 21
+x y 61
+x z 68
+y z 36
